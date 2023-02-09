@@ -29,10 +29,8 @@ I'm Carlos Wilker, a 20 years old brazilian majoring in Computer Science and flu
 🌱 Learning:
 ---
 &nbsp;
-<img align="center" alt="React" title="ReactJS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Html" title="Html" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Css" title="Css"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Sass" title="Sass"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
+<img align="center" alt="Rust" title="Rust" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg">
+<img align="center" alt="Flask" title="Flask" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg">
 
 📊My stats:
 ---
