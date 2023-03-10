@@ -28,7 +28,7 @@ I'm Carlos Wilker, a 20 years old brazilian majoring in Computer Science and flu
 ---
 &nbsp;
 <img align="center" alt="Flask" title="Flask" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg">
-<img align="center" alt="Flask" title="Java" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
+<img align="center" alt="java" title="Java" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
 
 📊My stats:
 ---
