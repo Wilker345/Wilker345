@@ -10,7 +10,7 @@ How to contact me:
 <a href="https://hachyderm.io/@wilker"><img src="https://img.shields.io/badge/-Mastodon-7B68EE?logo=mastodon&style=for-the-badge&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/carlos-wilker-nogueira-santana-9855631a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-I have knowledge in:
+Tech Stack:
 ---
 <details>
 <summary>Langs</summary>
