@@ -1,62 +1,42 @@
+<p>I'm Carlos Wilker, a 22 years old brazilian majoring in Computer Science.</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilker345&layout=compact&langs_count=7&theme=radical" align="right">
 
-I'm Carlos Wilker, a 21 years old brazilian majoring in Computer Science.
 
 How to contact me:
 ---
 <p>English or Brazillian Portuguese.</p>
 <br>
 <a href="mailto:cwilkersantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://hachyderm.io/@wilker"><img src="https://img.shields.io/badge/-Mastodon-7B68EE?logo=mastodon&style=for-the-badge&logoColor=white" target="_blank"></a>
+<a href="https://bsky.app/profile/cwilker.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/carlos-wilker-nogueira-santana-9855631a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 Tech Stack:
 ---
-<details>
-<summary>Langs</summary>
-<div>
-  <img alt="Js" title="JavaScript" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  Javascript
-</div>
-<div>
-  <img alt="Ts" title="Typescript" width="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-  Typescript
-</div>
-<div>
-  <img alt="Py" title="Python"  width="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-  Python
-</div>
-<div>
-  <img alt="java" title="Java" width="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
-  Java
-</div>
+<details open>
+  <summary>Langs</summary>
+  <img alt="C" title="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img title="Js" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="Ts" title="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Py" title="Python" src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57">
 </details>
 
-<details>
-  <summary>Frameworks</summary>
-  <div>
-  <img alt="Flask" title="Flask" width="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg">
-  Flask
-</div>
-<div>
-  <img alt="reactjs" title="React" width="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-  React
-</div>
+<details open>
+  <summary>Tools</summary>
+  <img alt="Flask" title="Flask"src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img alt="Reactjs" title="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Express" title="Express" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="Postgresql" title="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </details>
 
-<details>
+<details open>
   <summary>Currently learning</summary>
+  <img alt="Spring framework" title="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="Tailwind" title="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</details>
 
-<div>
-  <img alt="spring framework" title="Spring" width="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
-  Spring Framework
-</div>
-<div>
-  <img alt="Rust" title="Rust" width="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg">
-  Rust
-</div>
-<div>
-  <img alt="NextJs Framework" title="NextJS" width="25" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg">
-  NextJS
-</div>
+<details open>
+  <summary>Plans to learn</summary>
+  <img alt="NextJs Framework" title="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </details>
