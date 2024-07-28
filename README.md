@@ -1,7 +1,6 @@
 <p>I'm Carlos Wilker, a 22 years old brazilian majoring in Computer Science.</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilker345&layout=compact&langs_count=7&theme=radical" align="right">
 
-
 How to contact me:
 ---
 <p>English or Brazillian Portuguese.</p>
@@ -38,5 +37,7 @@ Tech Stack:
 <details open>
   <summary>Plans to learn</summary>
   <img alt="NextJs Framework" title="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="AWS" title="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="RabbitMQ" title="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">   	
 </details>
