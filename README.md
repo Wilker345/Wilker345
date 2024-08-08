@@ -1,4 +1,4 @@
-<p>I'm Carlos Wilker, a 22 years old brazilian majoring in Computer Science.</p>
+<p>I'm Carlos Wilker. 22y. Computer Scientist.</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilker345&layout=compact&langs_count=7&theme=radical" align="right">
 
 How to contact me:
